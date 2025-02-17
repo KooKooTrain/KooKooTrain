@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Koo
-- 👀 I’m interested in programming, reading and gaming
-- 🌱 I’m currently learning java and c++ (I know python, js, html & css)
-- 💞️ I’m looking to collaborate on discord card bots / games
-- 📫 How to reach me 814497641056305202  <- my discord id (I'm inactive on dc now)
+Im Koo :3
+I love cats and central cee 
+I code in py and js
+Looking to collaborate on discord cardbots or any bot in general + designers
 
 <!---
 KookieDookie7/KookieDookie7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
