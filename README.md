@@ -1,4 +1,4 @@
-• Im Koo :3 
+• Im Koo :3  
 • I love cats and central cee  
 • I code in py and js  
 • Looking to collaborate on discord cardbots or any bot in general + designers  
