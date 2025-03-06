@@ -1,5 +1,5 @@
 • Im Koo :3  
-• I love cats and central cee  
+• I love cats and central cee :3
 • I code in py and js  
 • Looking to collaborate on discord cardbots or any bot in general + designers  
 • And I play valorant LOL  
