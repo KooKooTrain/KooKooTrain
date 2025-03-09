@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm Koo <3</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">16 | 📍 UAE | Student</h2>
 
-
-
 • Check out my [Profile](https://guns.lol/kookootrain)   
 • I code in Py and Im learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)  
