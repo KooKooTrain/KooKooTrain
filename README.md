@@ -15,7 +15,12 @@
 
 </td>
 <td width="50%" align="center">
+  <img align="center" alt="Koo" width="450" src="https://i.postimg.cc/qvPfDM8C/blush-koo.png">
+
   
+  </td>
+</tr>
+</table>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
