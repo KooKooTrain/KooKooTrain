@@ -6,7 +6,7 @@
 
 <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200" align="right"></td>
 • Check out my [Profile](https://guns.lol/kookootrain) 💗  
-• I code in Py and I'm learning Js
+• I code in Py and I'm learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)  
 • Looking to collaborate on discord cardbots or any bot in general  
 • Looking for designers & animators  
