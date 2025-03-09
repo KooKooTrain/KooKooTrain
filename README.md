@@ -11,6 +11,13 @@
 • Looking for designers (asset designers)  
 • And I play valorant LOL 
 
+<br> <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
+
+</div>
+
+
 ![Koo's github stats](https://github-readme-stats.vercel.app/api?username=KooKooTrain&theme=gruvbox&show_icons=true)
 <!---
 KookieDookie7/KookieDookie7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
