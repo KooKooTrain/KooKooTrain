@@ -9,9 +9,9 @@
 • Looking for designers (asset designers)  
 • I love cats :3 and I play valorant LOL  
 
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
-</div>
 
 
 <!---
