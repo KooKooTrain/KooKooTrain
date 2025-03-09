@@ -2,6 +2,10 @@
 <p align="center">16 | UAE | Student</p>
 <br>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 • Check out my [Profile](https://guns.lol/kookootrain) 💗  
 • I code in Py and Im learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8) - Discord Bots  
@@ -9,6 +13,9 @@
 • Looking for designers (asset designers)  
 • I love cats :3 and I play valorant LOL  
 
+</td>
+<td width="50%" align="center">
+  
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
