@@ -1,16 +1,18 @@
 <h1 align="center"><b>Hi , I'm Koo <3</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">16 | 📍 UAE | Student<br> <br>
+<h2 align="center">16 | 📍 UAE | Student<br><br>
+  <a href="https://github.com/KooKooTrain" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KooKooTrain?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br> </h3>
 <!--  -->
 
 
-<h3 align="left">
 • Check out my [Profile](https://guns.lol/kookootrain)   
 • I code in Py and Im learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)  
 • Looking to collaborate on discord cardbots or any bot in general  
 • Looking for designers (asset designers)  
 • I love cats :3  
-• And I play valorant LOL  </h3>
+• And I play valorant LOL  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
