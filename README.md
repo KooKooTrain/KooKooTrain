@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi, I'm Koo <3  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Koo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">16 | 📍UAE | Student</p>
 <br>
 
-• Check out my [Profile](https://guns.lol/kookootrain)   
+• Check out my [Profile](https://guns.lol/kookootrain) ...<3  
 • I code in Py and Im learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)  
 • Looking to collaborate on discord cardbots or any bot in general  
