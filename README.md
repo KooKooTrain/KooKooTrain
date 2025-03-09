@@ -12,15 +12,12 @@
 • Looking to collaborate on discord cardbots or any bot in general  
 • Looking for designers (asset designers)  
 • I love cats :3 and I play valorant LOL  
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Koo" width="450" src="https://i.postimg.cc/2S4TmzsW/koo.png">
-
-  
   </td>
 </tr>
 </table>
+
+</td>
+
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
