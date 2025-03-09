@@ -15,7 +15,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Koo" width="450" src="https://i.postimg.cc/qvPfDM8C/blush-koo.png">
+  <img align="center" alt="Koo" width="450" src="https://i.postimg.cc/2S4TmzsW/koo.png">
 
   
   </td>
