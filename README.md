@@ -14,9 +14,10 @@
 
 <br>
 
-
-
-
+<a href="https://discord.gg/fpUtBrbKU5" target="_blank"><img align="center" src="https://i.postimg.cc/5Nkj0LVd/discord.png" alt="KooKooTrain" height="40" width="40" />  </a>
+<a href="https://guns.lol/kookootrain" target="_blank"><img align="center" src="https://i.postimg.cc/qvPfDM8C/blush-koo.png" alt="Click Me" height="37" width="47" />  </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="35"/>  </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://i.postimg.cc/vmyyHZcw/vsc.png" alt="VSC" width="40" height="40"/>  </a> 
 
 
 
