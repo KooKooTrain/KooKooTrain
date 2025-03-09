@@ -14,7 +14,7 @@
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 15px;">
     <a href="https://discord.gg/fpUtBrbKU5" target="_blank">
-        <img src="https://i.postimg.cc/5Nkj0LVd/discord.png" alt="KooKooTrain" height="40" width="40" /> |
+        <img src="https://i.postimg.cc/5Nkj0LVd/discord.png" alt="KooKooTrain" height="40" width="40" />
     </a>
     <a href="https://guns.lol/kookootrain" target="_blank">
         <img src="https://i.postimg.cc/qvPfDM8C/blush-koo.png" alt="Click Me" height="37" width="47" />
