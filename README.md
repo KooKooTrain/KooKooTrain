@@ -4,21 +4,19 @@
 
 <br>
 
- 
-• I love cats and central cee :3    
+• Check out my [Profile](https://guns.lol/kookootrain)   
 • I code in Py and Im learning Js  
+• Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)
 • Looking to collaborate on discord cardbots or any bot in general  
 • Looking for designers (asset designers)  
-• And I play valorant LOL 
-
-<br> <br>
+• I love cats :3 
+• And I play valorant LOL
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
 
 </div>
 
 
-![Koo's github stats](https://github-readme-stats.vercel.app/api?username=KooKooTrain&theme=gruvbox&show_icons=true)
 <!---
 KookieDookie7/KookieDookie7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
