@@ -2,7 +2,7 @@
 <p align="center">16 | 📍UAE | Student</p>
 <br>
 
-• Check out my [Profile](https://guns.lol/kookootrain) ...<3  
+• Check out my [Profile](https://guns.lol/kookootrain) ...💗  
 • I code in Py and Im learning Js  
 • Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8)  
 • Looking to collaborate on discord cardbots or any bot in general  
