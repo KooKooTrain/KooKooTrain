@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Koo <3</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center" style="margin: 0;">16 | 📍 UAE | Student</p>
+<p align="center">16 | 📍 UAE | Student</p>
 
 • Check out my [Profile](https://guns.lol/kookootrain)   
 • I code in Py and Im learning Js  
