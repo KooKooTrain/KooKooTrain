@@ -2,24 +2,26 @@
 <p align="center">16 | UAE | Student</p>
 <br>
 
-<table align="left">
-<tr border="none">
-<td width="50%" align="left">
-  
-• Check out my [Profile](https://guns.lol/kookootrain) 💗  
-• I code in Py and Im learning Js  
-• Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8) - Discord Bots  
-• Looking to collaborate on discord cardbots or any bot in general  
-• Looking for designers (asset designers)  
-• I love cats :3 and I play valorant LOL  
-  </td>
-</tr>
+
+
+<table>
+  <tr>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+    <td>
+      <ul>
+        <li>• Check out my [Profile](https://guns.lol/kookootrain) 💗  </li>
+        <li>• I code in Py and Im learning Js  </li>
+        <li>• Currently Working on [Rose Bot](https://discord.gg/kFNfY9t6u8), [Anya Bot](https://discord.gg/kFNfY9t6u8), [Dori Bot](https://discord.gg/kFNfY9t6u8) - Discord Bots  </li>
+        <li>• Looking to collaborate on discord cardbots or any bot in general  </li>
+        <li>• Looking for designers & animators</li>
+        <li>• I love cats :3 and I play valorant LOL  </li>
+      </ul>
+  </tr>
 </table>
 
-</td>
-
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KooKooTrain" alt="KooKooTrain" /></p>
+
 
 
 
