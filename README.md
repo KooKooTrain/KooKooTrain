@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Koo <3</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">16 | 📍 UAE | Student<br><br>
   <a href="https://github.com/KooKooTrain" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KooKooTrain?label=Github%20followers&style=for-the-badge">
+    <img alt="Click Me" src="[https://img.shields.io/github/followers/KooKooTrain?label=Github%20followers&style=for-the-badge](https://guns.lol/kookootrain)">
   </a> <br> <br> </h3>
 <!--  -->
 
