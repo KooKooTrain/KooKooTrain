@@ -5,11 +5,11 @@
 <br>
 
  
-• I love cats and central cee :3  
-• I code in Py and Im learning Js 
-• Looking to collaborate on discord cardbots or any bot in general
-• Looking for designers (asset designers)
-• And I play valorant LOL
+• I love cats and central cee :3    
+• I code in Py and Im learning Js  
+• Looking to collaborate on discord cardbots or any bot in general  
+• Looking for designers (asset designers)  
+• And I play valorant LOL 
 
 ![Koo's github stats](https://github-readme-stats.vercel.app/api?username=KooKooTrain&theme=gruvbox&show_icons=true)
 <!---
