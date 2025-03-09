@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi , I'm Koo <3 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><b>16 | UAE | Student</b></h2>
+<h1 align="center"><b>Hi , I'm Koo <3 \n16 | UAE | Student</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <!--  -->
 
 
