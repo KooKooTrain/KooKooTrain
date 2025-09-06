@@ -5,7 +5,7 @@
 <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200" align="right"></td>
 • Check out my [Profile](https://guns.lol/kookootrain) 💗  
 • I code in **Py** and I'm learning **Js**  
-• Currently Working on [Mingyu Bot](https://discord.gg/2Tjv7534CB), Jungkook Bot, Anya Bot - Discord Bots 
+• Currently Working on [Mingyu Bot](https://discord.gg/2Tjv7534CB), Jungkook Bot, Anya Bot - Discord Bots  
 • Looking for graphic designers & animators  
 • I love **cats** :3 and I play **Valorant** LOL  
 
