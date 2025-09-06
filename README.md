@@ -12,7 +12,7 @@
 <br>
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 15px;">
-    <a href="https://discord.gg/fpUtBrbKU5" target="_blank">
+    <a href="https://discord.com/users/814497641056305202" target="_blank">
         <img src="https://i.postimg.cc/5Nkj0LVd/discord.png" alt="KooKooTrain" height="40" width="40" />
     </a>
     <a href="https://guns.lol/kookootrain" target="_blank">
