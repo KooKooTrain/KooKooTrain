@@ -3,12 +3,12 @@
 <br>
 
 <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200" align="right"></td>
-• Check out my [Profile](https://guns.lol/kookootrain) & [Portfolio](https://kookootrain.github.io/Koo./) 💗  
+• Check out my [Profile](https://guns.lol/kookootrain) & [Portfolio](https://kookootrain.github.io/Koo./) 🤍  
 • I code in **Py, Js, HTML & Tailwind CSS** and I'm learning **C# & Ts**  
 • I'm one of the Founders of our organization [Auxi](https://kookootrain.github.io/Auxi/frontpage.html) & I'm a Web Dev for [PINK](https://kookootrain.github.io/PINK/frontpage.html).  
-• Currently Working on [Mingyu Bot](https://discord.gg/2Tjv7534CB), Jungkook Bot, Anya Bot - Discord Bots  
+• Currently Working on Jungkook Bot & Anya Bot - Discord Bots  
 • Looking for graphic designers & animators  
-• I love **cats** :3 and I play **Valorant** LOL  
+• I love **cats** :3 and I play **Valorant** + **Genshin**  
 
 <br>
 
