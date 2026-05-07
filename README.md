@@ -6,9 +6,6 @@
 • Check out my [Profile](https://guns.lol/kookootrain) & [Portfolio](https://koochie.netlify.app/) 🤍  
 • I code in **Py, Js, HTML & Tailwind CSS** and I'm learning **C# & Ts**  
 • I'm one of the Founders of our organization [Auxi](https://auxiorg.netlify.app/) & I'm a Web Dev for [PINK](https://pinkorg.netlify.app/).  
-• Currently Working on Jungkook Bot & Anya Bot - Discord Bots  
-• Looking for graphic designers & animators  
-• I love **cats** :3 and I play **Valorant** + **Genshin**  
 
 <br>
 
