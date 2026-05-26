@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi, I'm Koo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">16 | UAE | Student</p>
+<p align="center">17 | UAE | Student</p>
 <br>
 
-<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="200" align="right"></td>
+<img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777099/5230004a286b6fd261c839649ecbae8a_q06wbn.gif" width="200" align="right"></td>
 • Check out my [Profile](https://guns.lol/kookootrain) & [Portfolio](https://koochie.netlify.app/) 🤍  
 • I code in **Py, Js, HTML & Tailwind CSS** and I'm learning **C# & Ts**  
 • I'm one of the Founders of our organization [Auxi](https://auxiorg.netlify.app/) & I'm a Web Dev for [PINK](https://pinkorg.netlify.app/).  
