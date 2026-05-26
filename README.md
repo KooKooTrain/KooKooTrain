@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Koo  </b><img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777101/b5c1dcfc4e84b9b6cbbeef9944b04c3c_ads3qp.gif" width="35"></h1>
 <p align="center">17 | UAE | Student</p>
-<img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777099/5230004a286b6fd261c839649ecbae8a_q06wbn.gif" width="250" align="right"></td>
+<img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777099/5230004a286b6fd261c839649ecbae8a_q06wbn.gif" width="200" align="right"></td>
 <br>
 
 • Check out my [Profile](https://guns.lol/kookootrain) & [Portfolio](https://koochie.netlify.app/) 🤍  
