@@ -3,9 +3,10 @@
 <img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777099/5230004a286b6fd261c839649ecbae8a_q06wbn.gif" width="200" align="right"></td>
 <br>
 
-• Check out my [Profile](https://divskoo.netlify.app/) & [Portfolio](https://koochie.netlify.app/) 🤍  
+• Check out my [Profile](https://divskoo.netlify.app/) 🤍  
 • I code in **Py, Js, HTML & Tailwind CSS** and I'm learning **C# & Ts**  
-• I'm one of the Founders of our organization [Auxi](https://auxiorg.netlify.app/) & I'm a Web Dev for [PINK](https://pinkorg.netlify.app/).  
+• I'm one of the Founders of our organizations [Vithi](https://vithistudy.web.app/) and [Auxi](https://auxiorg.netlify.app/) & I'm a Web Dev for [PINK](https://pinkorg.netlify.app/).  
+• I play valorant lol
 
 <br>
 
@@ -13,7 +14,7 @@
     <a href="https://discord.com/users/814497641056305202" target="_blank">
         <img src="https://i.postimg.cc/5Nkj0LVd/discord.png" alt="KooKooTrain" height="40" width="40" />
     </a>
-    <a href="https://guns.lol/kookootrain" target="_blank">
+    <a href="https://divskoo.netlify.app/" target="_blank">
         <img src="https://i.postimg.cc/qvPfDM8C/blush-koo.png" alt="Click Me" height="37" width="47" />
     </a>
 </div>
