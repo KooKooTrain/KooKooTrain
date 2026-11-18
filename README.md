@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://vithistudy.web.app/">
-        <img src="https://image.thum.io/get/width/900/wait/10/https://vithistudy.web.app/" alt="Vithi preview" width="100%" />
+        <img src="assets/vithi.png" alt="Vithi preview" width="100%" />
       </a>
       <br><br>
       <b>Vithi</b><br>
@@ -27,33 +27,33 @@
       <a href="https://vithistudy.web.app/">Live site →</a>
     </td>
     <td align="center" width="50%">
+      <a href="https://auxiorg.netlify.app/">
+        <img src="assets/auxi.png" alt="Auxi preview" width="100%" />
+      </a>
+      <br><br>
+      <b>Auxi</b><br>
+      AI study-buddy for kids with learning disabilities<br><br>
+      <a href="https://auxiorg.netlify.app/">Live site →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://rabtaadu.netlify.app/">
-        <img src="https://image.thum.io/get/width/900/wait/20/https://rabtaadu.netlify.app/" alt="Raabta preview" width="100%" />
+        <img src="assets/raabta.png" alt="Raabta preview" width="100%" />
       </a>
       <br><br>
       <b>Raabta</b><br>
       Family sports, judged by AI<br><br>
       <a href="https://rabtaadu.netlify.app/">Live site →</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
-      <a href="https://pinkorg.netlify.app/">
-        <img src="https://image.thum.io/get/width/900/wait/10/https://pinkorg.netlify.app/" alt="PINK preview" width="100%" />
+      <a href="https://hayatiweb.netlify.app/">
+        <img src="assets/hayati.png" alt="Hayati preview" width="100%" />
       </a>
       <br><br>
-      <b>PINK</b><br>
-      Spreading awareness about feminism<br><br>
-      <a href="https://pinkorg.netlify.app/">Live site →</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://auxiorg.netlify.app/">
-        <img src="https://image.thum.io/get/width/900/wait/10/https://auxiorg.netlify.app/" alt="Auxi preview" width="100%" />
-      </a>
-      <br><br>
-      <b>Auxi</b><br>
-      AI study-buddy for kids with learning disabilities<br><br>
-      <a href="https://auxiorg.netlify.app/">Live site →</a>
+      <b>Hayati</b><br>
+      Family management app for finances, planning and more<br><br>
+      <a href="https://hayatiweb.netlify.app/">Live site →</a>
     </td>
   </tr>
 </table>
