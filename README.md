@@ -39,10 +39,10 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://rabtaadu.netlify.app/">
-        <img src="assets/raabta.png" alt="Raabta preview" width="100%" />
+        <img src="assets/rabta.png" alt="Rabta preview" width="100%" />
       </a>
       <br><br>
-      <b>Raabta</b><br>
+      <b>Rabta</b><br>
       Family sports, judged by AI<br><br>
       <a href="https://rabtaadu.netlify.app/">Live site →</a>
     </td>
