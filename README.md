@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      20 &nbsp;|&nbsp; UAE &nbsp;|&nbsp; Student<br><br>
+      17 &nbsp;|&nbsp; UAE &nbsp;|&nbsp; Student<br><br>
       I code in <b>Python, JavaScript, HTML & Tailwind CSS</b><br>
       and I'm learning <b>C# & TypeScript</b>
     </td>
