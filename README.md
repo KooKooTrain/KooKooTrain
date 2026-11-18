@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://vithistudy.web.app/">
-        <img src="assets/vithi.png" alt="Vithi preview" width="100%" />
+        <img src="assets/vithi.jpeg" alt="Vithi preview" width="100%" />
       </a>
       <br><br>
       <b>Vithi</b><br>
@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://auxiorg.netlify.app/">
-        <img src="assets/auxi.png" alt="Auxi preview" width="100%" />
+        <img src="assets/auxi.jpeg" alt="Auxi preview" width="100%" />
       </a>
       <br><br>
       <b>Auxi</b><br>
@@ -39,7 +39,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://rabtaadu.netlify.app/">
-        <img src="assets/rabta.png" alt="Rabta preview" width="100%" />
+        <img src="assets/rabta.jpeg" alt="Rabta preview" width="100%" />
       </a>
       <br><br>
       <b>Rabta</b><br>
@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://hayatiweb.netlify.app/">
-        <img src="assets/hayati.png" alt="Hayati preview" width="100%" />
+        <img src="assets/hayati.jpeg" alt="Hayati preview" width="100%" />
       </a>
       <br><br>
       <b>Hayati</b><br>
