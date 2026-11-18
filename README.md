@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Divya / Koo <img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777101/b5c1dcfc4e84b9b6cbbeef9944b04c3c_ads3qp.gif" width="35"></h1>
-
+<p align="center">
+  <a href="https://divskoo.netlify.app/"><b>Click to View My Portfolio</b></a>
+</p>
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      17 &nbsp;|&nbsp; UAE &nbsp;|&nbsp; Student<br><br>
+      20 &nbsp;|&nbsp; UAE &nbsp;|&nbsp; Student<br><br>
       I code in <b>Python, JavaScript, HTML & Tailwind CSS</b><br>
       and I'm learning <b>C# & TypeScript</b>
     </td>
