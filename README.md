@@ -2,7 +2,7 @@
 
 <p align="center">20 &nbsp;|&nbsp; UAE &nbsp;|&nbsp; Student</p>
 
-<p align="center">
+<p align="right">
   <img src="https://res.cloudinary.com/dw4mv7p40/image/upload/v1779777099/5230004a286b6fd261c839649ecbae8a_q06wbn.gif" width="160">
 </p>
 
